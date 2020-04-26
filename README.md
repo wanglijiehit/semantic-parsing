@@ -9,7 +9,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | DuSQL | 200个数据库，近2.4万问题 | 2020年 | -- | 百度 | -- | --| N/A |
+    | DuSQL | 200个数据库，近2.4万问题 | 2020年 | -- | 百度 | 暂无 | 暂无 | [https://aistudio.baidu.com/aistudio/competition/detail/29] |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     -  N/A.
@@ -24,7 +24,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | CSpider | 166个数据库，0.9万问题 | 2019年 | 西湖大学 | A Pilot Study for Chinese SQL Semantic Parsing | [链接]（https://taolusi.github.io/CSpider-explorer/）中的“Getting Started” | [链接]( https://taolusi.github.io/CSpider-explorer ） |
+    | CSpider | 166个数据库，0.9万问题 | 2019年 |  | 西湖大学 | A Pilot Study for Chinese SQL Semantic Parsing |[https://taolusi.github.io/CSpider-explorer]|
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - N / A.
