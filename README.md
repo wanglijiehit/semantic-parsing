@@ -12,7 +12,7 @@
     | DuSQL | 200个数据库，近2.4万问题 | 2020年 | -- | 百度 | 暂无 | [链接](https://aistudio.baidu.com/aistudio/competition/detail/30) |[2020 Language and Intelligence Challenge on Semantic Parsing](https://aistudio.baidu.com/aistudio/competition/detail/29)|
 
 - <strong>基于该数据集发表的相关论文：</strong>
-    -  无.
+    -  无
     
 
 ### 2. CSpider
@@ -42,6 +42,6 @@
     | NL2SQL | 26521个数据库，8万+问题 | 2019年 | 追一科技 | N/A | [链接](https://tianchi.aliyun.com/competition/entrance/231716/information)| [基于阿里天池的比赛](https://tianchi.aliyun.com/competition/entrance/231716/rankingList) |
 
 - <strong>基于该数据集发表的相关论文：</strong>
-    - 无.
+    - 无
 
 [回到首页](/README.md)
