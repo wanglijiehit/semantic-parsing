@@ -3,13 +3,13 @@
 ### 1. DuSQL
 - <strong>数据集简介：</strong>
 
-    百度建设的中文开放领域、基于多表的Text-to-SQL数据集。
+    DuSQL是百度公司建设的覆盖多领域、基于多表的中文Text-to-SQL数据集。该数据集包含覆盖160+领域的200个数据库，平均每个数据库包含4.1张表格，共2.4万<问题，SQL查询语句>对。为了提升数据集的实用价值，该数据集覆盖了更多实际应用中的问题类型，如排序、比较、计算等。
 
 - <strong>数据集详情：</strong>
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | DuSQL | 200个数据库，近2.4万问题 | 2020年 | -- | 百度 | 暂无 | 暂无 |[链接](https://aistudio.baidu.com/aistudio/competition/detail/29)|
+    | DuSQL | 200个数据库，近2.4万问题 | 2020年 | -- | 百度 | 暂无 | [链接](https://aistudio.baidu.com/aistudio/competition/detail/30) |[链接](https://aistudio.baidu.com/aistudio/competition/detail/29)|
 
 - <strong>基于该数据集发表的相关论文：</strong>
     -  N/A.
