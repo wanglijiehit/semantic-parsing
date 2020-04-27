@@ -9,7 +9,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | DuSQL | 200个数据库，近2.4万问题 | 2020年 | -- | 百度 | 暂无 | 暂无 |[链接]（https://aistudio.baidu.com/aistudio/competition/detail/29） [https://aistudio.baidu.com/aistudio/competition/detail/29] |
+    | DuSQL | 200个数据库，近2.4万问题 | 2020年 | -- | 百度 | 暂无 | 暂无 |[链接](https://aistudio.baidu.com/aistudio/competition/detail/29)|
 
 - <strong>基于该数据集发表的相关论文：</strong>
     -  N/A.
@@ -43,4 +43,5 @@
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - N / A.
+
 [回到首页](/README.md)
