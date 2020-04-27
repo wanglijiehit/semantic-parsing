@@ -3,7 +3,7 @@
 ### 1. DuSQL
 - <strong>数据集简介：</strong>
 
-    DuSQL是百度公司建设的覆盖多领域、基于多表的中文Text-to-SQL数据集。该数据集包含覆盖160+领域的200个数据库，平均每个数据库包含4.1张表格，共2.4万<问题，SQL查询语句>对。为了提升数据集的实用价值，该数据集覆盖了更多实际应用中的问题类型，如排序、比较、计算等。
+    DuSQL是百度公司建设的覆盖多领域、基于多表的中文Text-to-SQL数据集。该数据集包含覆盖160+领域的200个数据库，平均每个数据库包含4.1张表格，共2.4万<问题，SQL查询语句>对。为了提升数据集的实用价值，该数据集不仅覆盖了SQL常见关键词，还覆盖了更多实际应用中的问题类型，如排序、比较、计算等。
 
 - <strong>数据集详情：</strong>
 
@@ -18,16 +18,16 @@
 ### 2. CSpider
 - <strong>数据集简介：</strong>
 
-   中文开放领域、基于多表的Text-to-SQL数据集，翻译自Spider数据集。
+   CSpider数据集是从Spider数据集翻译过来的（仅翻译了问题，数据库相关信息都是英文的）。该数据集是覆盖多领域、基于多表的Text-to-SQL数据集。其包含166个数据库，平均每个数据库包含5.3张表格，共9K+问题。Spider数据集是全人工建设的数据集，覆盖了SQL中常见关键词（Select、Where、Group by、Order by等）和对应的句式，对实际问题类型覆盖未做统计。CSpider翻译自Spider，其信息同Spider。
     
 - <strong>数据集详情：</strong>
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | CSpider | 166个数据库，0.9万问题 | 2019年 | Qingkai Min, Yuefeng Shi, Yue Zhang | 西湖大学 | A Pilot Study for Chinese SQL Semantic Parsing |[https://taolusi.github.io/CSpider-explorer]|
+    | CSpider | 166个数据库，0.9万问题 | 2019年 | Qingkai Min, et al. | 西湖大学 | [链接](https://arxiv.org/abs/1909.13293) |[CSpider榜单](https://taolusi.github.io/CSpider-explorer)|
 
 - <strong>基于该数据集发表的相关论文：</strong>
-    - N / A.
+    - A Pilot Study for Chinese SQL Semantic Parsing
 
 
 ### 3. NL2SQL
